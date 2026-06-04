@@ -1,1 +1,0 @@
-# Fruit-Pulp-Management-System
